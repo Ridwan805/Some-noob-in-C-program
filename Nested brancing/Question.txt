@@ -1,0 +1,49 @@
+1. Write a Python program to compute and display a person’s weekly salary as determined by the 
+following conditions:
+    ● If the hours worked is less than or equal to 40, then the person receives Tk 200 per hour.
+    ● If the hours worked is greater than 40, then the person receives Tk 8000 plus Tk 300 for 
+each hour worked over 40 hours.
+The program should request the hours worked as an input from the user and display the salary as 
+output. You need to make sure that user input is valid. For example, a person cannot work for -5 
+hours or more than 168 hours in a week. So, the valid hours range is 0 to 168. For invalid hours, 
+print outputs as given in the samples below.
+
+2.  Write a Python program that takes an hour from the user as input and tells it is time for which 
+meal.
+        • The user will input the number in a 24-hour format. So, 14 means 2 pm, 3 means 3 am, 18 
+        means 6 pm, etc.
+        • Valid inputs are 0 to 23. Inputs less than 0 or more than 23 are invalid in 24-hour clock.
+        • Assume, input will be whole numbers. For example, 3.5 will NOT be given as input.  
+
+3.Write the Python code of a program that reads a student’s mark for a single subject, and prints out 
+the corresponding grade for that mark. The mark ranges and corresponding grades are shown in 
+the table below. You need to make sure that the mark is valid. For example, a student cannot 
+receive -5 or 110 marks. So, the valid marks range from 0 to 100.
+
+Marks         Grade
+90 or above      A
+80-89            B
+70-79            C
+60-69            D
+50-59            E
+Below 50         F
+
+
+4. Suppose, your friend is building an automated car called “Besla”. He needs to fix the programming 
+of the car so that it runs at a proper speed. Now, write a python program that takes 2 inputs (distance 
+in meters and time in seconds). The program should then print the velocity in kilometers per hour 
+of that car. Also, it should print whether the car is working properly based on the following chart.
+Velocity                                 Information to be printed
+Less than 60 km/h                       Too slow. Needs more changes.
+Between 60 km/h to 90 km/h              Velocity is okay. The car is ready!
+Greater than 90 km/h                 Too fast. Only a few changes should suffice.
+
+5.Write a python program that takes the CGPA and no of credits completed by a student and prints 
+whether the student is eligible for a waiver and of what percentage.
+To be eligible for a waiver, a student must have completed at least 30 credits and earned a CGPA 
+greater or equal to 3.8. If not, please print "The student is not eligible for a waiver".
+CGPA                            Waiver percentage
+3.80 - 3.89                         25 percent
+3.90 - 3.94                         50 percent
+3.95 - 3.99                         75 percent
+4.00                                100 percent
