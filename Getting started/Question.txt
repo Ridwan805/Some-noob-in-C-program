@@ -1,0 +1,5 @@
+1. Write the c code of a program that reads two numbers from the user, and prints their sum, 
+product, and difference.
+
+2. Write the c code of a program that reads the radius of a circle and prints its circumference 
+and area.
