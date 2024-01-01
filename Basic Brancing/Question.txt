@@ -1,0 +1,7 @@
+1. Write the C code of a program that reads two numbers from the user. The program should 
+then print "First is greater" if the first number is greater, "Second is greater" if the second number 
+is greater, and "The numbers are equal" otherwise.
+
+
+2. Write the C code of a program that reads two numbers, subtracts the smaller number from 
+the larger one, and prints the result.
