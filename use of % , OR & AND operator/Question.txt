@@ -1,0 +1,14 @@
+1. Write the C code of a program that reads a number, and prints "The number is even" or "The 
+number is odd", depending on whether the number is even or odd
+
+
+2. Write the C code of a program that reads an integer as input from the user, and prints the 
+integer if it is a multiple of 2 OR 5 and prints "Not a multiple of 2 OR 5" otherwise.
+For example, 2, 4, 5, 6, 8, 10, 12, 14, 15, 16, 18, 20, 22 … i.e. this includes multiples of 2 only, 
+multiples of 5 only and multiples of 2 and 5 both.
+
+3. Write the C code of a program that reads an integer, and prints the integer it is a multiple of 
+either 2 or 5 but not both. If the number is a multiple of 2 and 5 both, then print "Multiple of 2 
+and 5 both". For all other numbers, the program prints "Not a multiple we want".
+For example, 2, 4, 5, 6, 8, 12, 14, 15, 16, 18, 22 … i.e. this includes multiples of 2 only and 
+multiples of 5 only, NOT multiples of 2 and 5 both or other numbers.
