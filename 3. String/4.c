@@ -28,7 +28,7 @@ int main(){
     }
     
     else if (strcmp(er, "er")==0){
-        strncpy(copy,s,len-2);
+        strncpy(copy,s,len-2); 
         copy[len - 2] = '\0';
         printf("%s%c%c%c",copy,'e','s','t');
     }
@@ -41,3 +41,5 @@ int main(){
     return 0;
 
 }
+
+// check strcpy and strncpy here https://github.com/Ridwan805/some-string-functions-in-c
